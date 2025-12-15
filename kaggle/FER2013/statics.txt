@@ -1,0 +1,11 @@
+--- STATISTIC RELATORY (FER-2013) ---
+EMOTION         | QUANTITY
+------------------------------
+surprise        | 3171
+fear            | 4097
+angry           | 3995
+neutral         | 4965
+sad             | 4830
+disgust         | 436
+happy           | 7215
+------------------------------
