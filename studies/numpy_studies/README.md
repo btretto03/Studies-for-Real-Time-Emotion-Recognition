@@ -1,13 +1,6 @@
 # NumPy Studies 🧮
 
-This repository documents my notes in learning **NumPy**.
-
-## 🚀 Key Concepts Covered
-- **Array Creation:** transforming lists into arrays and creating manual arrays (`np.array`).
-- **Inspection:** Understanding array dimensions with `.shape`.
-- **Generation:** Creating sequences with `np.arange` (start, stop, step).
-- **Initialization:** creating empty or filled matrices using `np.zeros` and `np.full`.
-- **Indexing:** Accessing specific elements within an array.
+This repository documents my notes in learning **NumPy** with the Codemy.com youtube playlist "https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK".
 
 ## 🛠️ Requirements
 - Python 3.x
