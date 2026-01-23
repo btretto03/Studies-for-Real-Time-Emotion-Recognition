@@ -1,6 +1,6 @@
 import numpy as np
 
-# Slicing numpy arrays
+# Slicing numpy arrays (use it all as Python lists)
 np1 = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9])
 print(np1[2:5]) # [3 4 5] as normal Python
 print(np1[2: ]) # [3 4 5 6 7 8 9] till the end

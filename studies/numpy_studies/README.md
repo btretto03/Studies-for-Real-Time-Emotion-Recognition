@@ -3,7 +3,7 @@
 This repository documents my notes in learning **NumPy** with the Codemy.com youtube playlist "https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK".
 
 ## 🛠️ Requirements
-- Python 3.x
+- Python
 - NumPy (`pip install numpy`)
 
 ---
