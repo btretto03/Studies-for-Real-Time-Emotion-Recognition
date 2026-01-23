@@ -9,7 +9,7 @@ print(np1.shape) # As we use len in Python we can use shape in with np -> (10,)
 np2 = np.arange(10)
 print(np2) # [0 1 2 3 4 5 6 7 8 9]
 
-np3 = np.arange(0, 10, 2) # We can determinate the begging(0), the end(10) and the step(2)
+np3 = np .arange(0, 10, 2) # We can determinate the begging(0), the end(10) and the step(2)
 print(np3) # [0 2 4 6 8]
 
 np4 = np.zeros(10) # Create an array full of zeros(strings 0. not int)
