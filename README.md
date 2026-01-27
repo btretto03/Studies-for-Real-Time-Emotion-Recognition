@@ -18,10 +18,11 @@ The project is divided into three strategic phases:
 
 The project file structure mirrors the learning path and development stages:
 
-* **`kaggle/FER2013/`**: Contains preliminary studies on the dataset, including scripts for data visualization (`visualize_faces.py`) and statistical analysis (`statistics.py`).
 * **`studies/`**: Dedicated to mastering the core technologies used in the project.
     * **`numpy_studies/`**: Fundamental array manipulation and mathematical operations.
     * **`Pytorch_studies/`**: Introduction to tensors and neural network construction using PyTorch.
+    * **`pandas_studies/`**: Data manipulation, cleaning, and exploratory analysis performed in Jupyter Notebooks (.ipynb) for better visualization.
+    * **`kaggle/FER2013/`**: Contains preliminary studies on the dataset, including scripts for data visualization (`visualize_faces.py`) and statistical analysis (`statistics.py`).
 
 ## 🛠️ Methodology
 
